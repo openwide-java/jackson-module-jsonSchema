@@ -1,3 +1,7 @@
+Discontinued
+============
+This repository is no longer actively maintained. Please take a look at the [original repo](https://github.com/FasterXML/jackson-module-jsonSchema).
+
 # Jackson [JSON Schema](http://json-schema.org/) Module
 
 This module supports the creation of a json schema (roughly alligned with draft version 3) specifying the expected outfrom from a given jackson configured application for a given java type. This module is intended to be an upgrade path from the hardcoded jsonschema generation 
